@@ -1,0 +1,47 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README.md
+parts:
+- caption: Debaty
+  numbered: true
+  chapters:
+  - file: D/D.md
+    sections:
+    - file: "D/BP_aplikacjerandkowe.md"
+    - file: "D/BP_celebryci.md"
+    - file: "D/BP_uczelnie.md"
+    - file: "D/BP_wiekemerytalny.md"
+    - file: "D/LD_aplikacjerandkowe.md"
+    - file: "D/LD_celebryci.md"
+    - file: "D/LD_uczelnie.md"
+    - file: "D/LD_wiekemerytalny.md"
+    - file: "D/KP_aplikacjerandkowe.md"
+    - file: "D/KP_celebryci.md"
+    - file: "D/Ox_AGI.md"
+    - file: "D/Ox_AK.md"
+    - file: "D/Ox_debaty_oksfordzkie.md"
+    - file: "D/Ox_enigma.md"
+    - file: "D/Ox_funduszżelazny.md"
+    - file: "D/Ox_GPT.md"
+    - file: "D/Ox_studiamedyczne.md"
+    - file: "D/Ox_wetoludowe.md"
+  - file: ND/ND.md
+    sections:
+    - file: "ND/BP_aplikacjerandkowe.md"
+    - file: "ND/BP_celebryci.md"
+    - file: "ND/BP_uczelnie.md"
+    - file: "ND/BP_wiekemerytalny.md"
+    - file: "ND/LD_aplikacjerandkowe.md"
+    - file: "ND/LD_celebryci.md"
+    - file: "ND/LD_uczelnie.md"
+    - file: "ND/LD_wiekemerytalny.md"
+    - file: "ND/KP_aplikacjerandkowe.md"
+    - file: "ND/KP_celebryci.md"
+    - file: "ND/KP_uczelnie.md"
+    - file: "ND/KP_wiekemerytalny.md"
+    - file: "ND/Ox_gapyear.md"
+    - file: "ND/Ox_GPT.md"
+    - file: "ND/Ox_handelautonomiczny.md"
+    - file: "ND/Ox_konstytucjamarcowa.md"
